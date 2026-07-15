@@ -1,0 +1,6 @@
+{
+  "name": "Amazing Grace Homecare",
+  "description": "Premium luxury homecare and assisted living services for elderly residents in Akure, Ondo State, Nigeria, offering compassionate nursing, physiotherapy, daily support, and an interactive AI assistant for families.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
